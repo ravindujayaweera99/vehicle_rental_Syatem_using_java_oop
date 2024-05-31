@@ -55,4 +55,16 @@ public class User {
     public String toString() {
         return ("User ID: " + this.getUserId() + "Name: " + this.getName() + "Address: " + this.getAddress() + "Phone Number: " + this.getPhoneNumber() + "Email: " + this.getEmail());
     }
+
+    public void register(){
+
+    }
+
+    public void updateDetails(){
+
+    }
+
+    public void getDetails() {
+
+    }
 }
